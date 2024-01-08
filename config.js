@@ -20,16 +20,16 @@ var config = {
      */
     imgs: {
         "Friendo": "./imgs/flower.jpg",
-        // "今天是你的生日": "./imgs/birthday.jpg",
+        "今天是你的生日": "./imgs/flower.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "开始",
-        play: "来首欢快的小曲",
-        bannar_coming: "赛博电灯",
+        turn_on: "点击开始",
+        play: "一首欢快的小曲",
+        bannar_coming: "电子彩带",
         balloons_flying: "好像少点东西",
-        cake_fadein: "一块赛博蛋糕",
-        light_candle: "一根赛博蜡烛",
+        cake_fadein: "来块电子蛋糕",
+        light_candle: "点电子蜡烛",
         wish_message: "生日快乐",
         story: "COURAGEOUS",
     }
