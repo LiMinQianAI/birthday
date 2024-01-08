@@ -20,7 +20,7 @@ var config = {
      */
     imgs: {
         "Friendo": "./imgs/flower.jpg",
-        "今天是你的生日": "./imgs/flower.jpg",
+         //"今天是你的生日": "./imgs/flower.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
